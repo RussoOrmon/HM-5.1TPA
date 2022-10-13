@@ -1,0 +1,12 @@
+img {
+   border-radius: 10%;
+   width: 130px;
+   height: 130px;
+   margin-top: 10px;
+ }
+ .Comment {
+   background-color: rgb(65, 71, 255);
+ }
+ .Comment-second {
+   background-color: bisque;
+ }
